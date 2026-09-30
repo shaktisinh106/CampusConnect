@@ -113,13 +113,10 @@ To prevent 404 errors on deep linking or page refreshes, ensure a vercel.json fi
 }
 
 
-👥 Project Leadership
-Role
-Name
-Responsibilities
-Project Lead & Ideator
-Krutika Pradhan
-Conceptualization, project management, system requirements, and UX vision
+## 👥 Project Leadership
+
+> **Project Lead & Ideator:** **Krutika Pradhan**  
+> *Core Focus:* Conceptualization, project management, system requirements, and UX vision.
 
 📄 License
 This project is developed for academic and campus collaboration purposes. All rights reserved by the CampusConnect team.
