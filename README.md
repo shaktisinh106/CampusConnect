@@ -165,7 +165,7 @@ To prevent 404 errors on deep linking or page refreshes, ensure `vercel.json` is
 
 ## 👥 Project Leadership
 
-> ### 👑 **Krutika Pradhan**
+> ###  **Krutika Pradhan**
 > **Role:** Project Lead & Ideator  
 > **Key Contributions:** Project conceptualization, system requirements specification, UX workflow design, and overall management.
 
